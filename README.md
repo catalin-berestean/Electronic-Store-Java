@@ -1,2 +1,2 @@
-# online-supermarket-java
-Basic ierarchy of a supermarket using OOP principles.
+# ElectronicStore
+Basic ierarchy of a electronic store using OOP principles.
